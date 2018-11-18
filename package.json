@@ -3,9 +3,18 @@
   "version": "1.0.0",
   "description": "Web Agency Demo",
   "main": "index.js",
+  "homepage": "https://apairoflevis.github.io/web",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages"
   },
   "author": "Andrew De La Paz",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/apairoflevis/web.git"
+  }
 }
