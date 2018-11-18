@@ -5,16 +5,11 @@
   "main": "index.js",
   "homepage": "https://apairoflevis.github.io/web",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
   },
   "author": "Andrew De La Paz",
   "license": "MIT",
   "dependencies": {
     "gh-pages": "^2.0.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/apairoflevis/web.git"
   }
 }
