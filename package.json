@@ -6,7 +6,7 @@
   "homepage": "https://apairoflevis.github.io/web",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Andrew De La Paz",
   "license": "MIT",
