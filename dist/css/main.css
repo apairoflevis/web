@@ -525,7 +525,7 @@ footer {
       /* Down Arrows */
     }
     footer .centered .footer-navigation .footer-links-holder h3::after {
-      float: right;
+      float: none;
       margin-right: 10px;
       content: "";
       display: inline-block;
